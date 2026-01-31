@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+⚠️ **WARNING: Men at Work**  
+_(Yes, like the band. No, you still can’t get Vegemite here.)_
 <!--
 **seneromonolith/seneromonolith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
